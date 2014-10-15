@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/qiukangbo/duobei/TestListView/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-c458cc77722b399354eaedf17a55a2defe3d817c.jar"
+        jar="/Users/qiukangbo/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72"/>
+
+</pre-dex-items>
